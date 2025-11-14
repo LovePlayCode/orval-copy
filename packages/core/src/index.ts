@@ -5,3 +5,4 @@ export * from './resolvers';
 export * from './types';
 export * from './utils';
 export * from './writers';
+export const a = '123';
